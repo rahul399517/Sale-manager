@@ -1,0 +1,15 @@
+@media only screen and (max-width: 450px) {
+  #tableheadings {
+    display: none;
+  }
+}
+#recentdata {
+  overflow: scroll;
+  height: 375px;
+}
+
+#datacard:hover {
+  border: 1px solid skyblue;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  color: #0d6efd;
+}

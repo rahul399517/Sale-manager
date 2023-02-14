@@ -1,0 +1,10 @@
+#custom-btn-blue {
+  border: 1px solid #b3e0ff;
+  background-color: #b3e0ff;
+  color: white;
+}
+@media only screen and (max-width: 450px) {
+  #logo {
+    width: 100%;
+  }
+}
